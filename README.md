@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zerfithel
+- 👀 I’m interested in coding arch scripts
+- 🌱 I’m currently learning linux & python/bash
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I use arch btw
