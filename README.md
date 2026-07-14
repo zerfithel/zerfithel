@@ -1,5 +1,3 @@
-![Dino](dino.gif)
-
 # Hello
 
 I am 16 year old student based in Poland.
