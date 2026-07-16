@@ -11,7 +11,7 @@ I am interested in programming, malware analysis and generally cybersecurity.
 - Network programming
 - Graphics programming
 - OS Development
-- Malware analys
+- Malware analysis
 
 ---
 
