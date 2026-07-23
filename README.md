@@ -18,3 +18,13 @@ I am interested in programming, malware analysis and generally cybersecurity.
 ## Contact
 
 Contact me at: hazetlab@proton.me
+
+---
+
+<div align="center">
+
+## Stats
+
+<img src="https://ghstats.dev/api/card?username=zerfithel&hide_title=true&border_radius=0&size=compact" alt="GitHub Stats Card" />
+
+</div>
