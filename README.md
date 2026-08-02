@@ -1,18 +1,19 @@
 # Hello
 
-I am 16 year old student based in Poland.
-I am interested in programming, malware analysis and generally cybersecurity.
+I'm a 16-year-old student from Poland and the maintainer of the [BoredOS Project](https://github.com/BoredOS).
 
 ## Interests
 
-- C, C++, Go
+My main areas of interest include:
+
+- C, C++, Go, Lua
 - Network programming
 - Graphics programming
-- OS Development
+- OS development
+- Reverse engineering
 - Malware analysis
+- Cybersecurity
 
 ## Contact
 
-Contact me at: hazetlab@proton.me
-
-<div align="center">
+Email: hazetlab@proton.me
